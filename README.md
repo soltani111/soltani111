@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soltani111&label=Profile%20views&color=0e75b6&style=flat" alt="soltani111" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soltani111" alt="soltani111" /></a> </p>
-
 - 🔭 I’m currently working on **PINN Heat Transfer and 3D-bioprint Tissue Engineering**
 
 - 💬 Ask me about **details of my project via contacting with me from my email or linkedin.**
@@ -21,19 +19,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soltani111&show_icons=true&locale=en&layout=compact" alt="soltani111" /></p>
 
-
-
-<!--
-**soltani111/soltani111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
